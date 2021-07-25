@@ -1,1 +1,3 @@
 First file in rebasimg
+
+line was added in fix branch
